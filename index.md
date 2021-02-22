@@ -16,8 +16,16 @@ Everything you need to know about me can be found on my mainwebsite in the discl
 
 My real name is of course not TechCree. Cree is an Indian tribe, so Technik Indian is my name, which is easier to remember than Stephan Skanta, because that's my name! So thank you for visiting my site and have fun and success. If you have any questions or suggestions, please write to me! There is also my email address or my contact form in my blog or on my main website!
 
+Und hier findest Du Inhalte/Projekte zu folgenden Themen:
+
+[Raspberry Pi](https://github.com/techcree/RaspberryPiTools.git)
+[Raspberry Pi Pico](https://github.com/techcree/PiPico)
+
+P.S.: Im Laufe der Zeit werde ich Dir hier weitere Informationen zu Projekte mit Bildern zur Verfügung stellen, also es lohnt sich sicher öfter mal die Website hier aufzurufen!
 
 
+Your
+  TechCree
 
 
 
