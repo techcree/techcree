@@ -18,8 +18,9 @@ My real name is of course not TechCree. Cree is an Indian tribe, so Technik Indi
 
 Und hier findest Du Inhalte/Projekte zu folgenden Themen:
 
-[Raspberry Pi](https://github.com/techcree/RaspberryPiTools.git)
-[Raspberry Pi Pico](https://github.com/techcree/PiPico)
+- [Raspberry Pi](https://github.com/techcree/RaspberryPiTools.git)
+- [Raspberry Pi Pico](https://github.com/techcree/PiPico)
+
 
 P.S.: Im Laufe der Zeit werde ich Dir hier weitere Informationen zu Projekte mit Bildern zur Verfügung stellen, also es lohnt sich sicher öfter mal die Website hier aufzurufen!
 
