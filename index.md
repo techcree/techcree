@@ -20,6 +20,7 @@ And here you will find content / projects on the following topics:
 
 - [Raspberry Pi](https://github.com/techcree/RaspberryPiTools.git)
 - [Raspberry Pi Pico](https://github.com/techcree/PiPico)
+- [All Repositories on GitHub](https://github.com/techcree)
 
 
 P.S.: In the course of time I will provide you with further information on projects with pictures, so it is definitely worth visiting the website here more often!
@@ -33,5 +34,4 @@ Your
 
 
 
-
-[DISCLAIMER](https://www.stskanta.de/kontakt/disclaimer)  I  [MAINWEBSITE](https://www.stskanta.de/)  I [BLOG](https://skanta-blog.de/)
+[DISCLAIMER](https://www.stskanta.de/disclaimer)  I  [MAINWEBSITE](https://www.stskanta.de/)  I [BLOG](https://skanta-blog.de/)
